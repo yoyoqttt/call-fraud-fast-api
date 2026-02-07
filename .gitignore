@@ -1,0 +1,142 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+.idea_modules/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# ML Models
+models/*.h5
+models/*.pkl
+models/*.joblib
+models/*.pt
+models/*.pth
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.pth
+
+# Keep model directory but ignore large model files
+!models/.gitkeep
+
+# Data files
+data/raw/*
+data/processed/*
+data/temp/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/temp/.gitkeep
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+coverage.xml
+*.cover
+.hypothesis/
+
+# MacOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# Secrets and credentials
+secrets/
+*.pem
+*.key
+*.crt
+credentials.json
+service-account.json
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# API Documentation
+site/
+
+# Docker
+*.tar
+*.zip
+
+# Large datasets
+*.csv
+*.json
+*.parquet
+!sample_data/*.csv
+!sample_data/*.json
+
+# Backup files
+*.bak
+*.backup
