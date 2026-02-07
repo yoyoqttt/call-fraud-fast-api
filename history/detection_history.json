@@ -1,0 +1,798 @@
+[
+  {
+    "success": true,
+    "filename": "uploaded_20260202_155442.wav",
+    "timestamp": "20260202_155442",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_155521.wav",
+    "timestamp": "20260202_155521",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_164902.wav",
+    "timestamp": "20260202_164902",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, my name is Siwon. Oh, how are you?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.0038575002867304387,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "won"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_164939.wav",
+    "timestamp": "20260202_164939",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, my name is Siwon. Oh, how are you?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.0038575002867304387,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "won"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_165202.wav",
+    "timestamp": "20260202_165202",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hi, this is Shivam. Your bank account has been suspended due to incomplete KYC. Click this link to verify now.",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.7104532243983603,
+      "risk_level": "HIGH",
+      "fraud_indicators": [
+        "bank account",
+        "suspended",
+        "verify"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_165358.wav",
+    "timestamp": "20260202_165358",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hi, this is Shivam. Your bank account has been suspended due to incomplete KYC. Click this link to verify now.",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.7104532243983603,
+      "risk_level": "HIGH",
+      "fraud_indicators": [
+        "bank account",
+        "suspended",
+        "verify"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_170222.wav",
+    "timestamp": "20260202_170222",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hi, this is Shivam. Your bank account has been suspended due to incomplete KYC. Click this link to verify now.",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.7104532243983603,
+      "risk_level": "HIGH",
+      "fraud_indicators": [
+        "bank account",
+        "suspended",
+        "verify"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260202_170322.mp3",
+    "timestamp": "20260202_170322",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260202_171531.mp3",
+    "timestamp": "20260202_171531",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260202_171903.mp3",
+    "timestamp": "20260202_171903",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260202_171928.mp3",
+    "timestamp": "20260202_171928",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_172219.wav",
+    "timestamp": "20260202_172219",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hi, this is Shivam. Your bank account has been suspended due to incomplete KYC. Click this link to verify now.",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.7104532243983603,
+      "risk_level": "HIGH",
+      "fraud_indicators": [
+        "bank account",
+        "suspended",
+        "verify"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260202_203406.mp3",
+    "timestamp": "20260202_203406",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_204321.wav",
+    "timestamp": "20260202_204321",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hi, this is Shivam. Your bank account has been suspended due to incomplete KYC. Click this link to verify now.",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.7104532243983603,
+      "risk_level": "HIGH",
+      "fraud_indicators": [
+        "bank account",
+        "suspended",
+        "verify"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_214641.wav",
+    "timestamp": "20260202_214641",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hi, this is Shivam. Your bank account has been suspended due to incomplete KYC. Click this link to verify now.",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.7104532243983603,
+      "risk_level": "HIGH",
+      "fraud_indicators": [
+        "bank account",
+        "suspended",
+        "verify"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_214738.wav",
+    "timestamp": "20260202_214738",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, my name is Siwon. Oh, how are you?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.0038575002867304387,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "won"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260202_220416.wav",
+    "timestamp": "20260202_220416",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hi, this is Shivam. Your bank account has been suspended due to incomplete KYC. Click this link to verify now.",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.7104532243983603,
+      "risk_level": "HIGH",
+      "fraud_indicators": [
+        "bank account",
+        "suspended",
+        "verify"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260203_011435.wav",
+    "timestamp": "20260203_011435",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hi, this is Shivam. Your bank account has been suspended due to incomplete KYC. Click this link to verify now.",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.7104532243983603,
+      "risk_level": "HIGH",
+      "fraud_indicators": [
+        "bank account",
+        "suspended",
+        "verify"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260203_011527.wav",
+    "timestamp": "20260203_011527",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, my name is Siwon. Oh, how are you?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.0038575002867304387,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "won"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260203_180215.m4a",
+    "timestamp": "20260203_180215",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260203_180244.m4a",
+    "timestamp": "20260203_180244",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260203_180447.wav",
+    "timestamp": "20260203_180447",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, my name is Siwon. Oh, how are you?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.0038575002867304387,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "won"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260203_180625.m4a",
+    "timestamp": "20260203_180625",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260203_180702.wav",
+    "timestamp": "20260203_180702",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, good morning. My name is Shivam. I am calling from policypazar.com. Your policy insurance is now claimed by someone. Can you share me your OTP?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.00014293168291890874,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_182813.mp3",
+    "timestamp": "20260203_182813",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, my name is Shivam. How are you?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.0002860717153018676,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_182923.mp3",
+    "timestamp": "20260203_182923",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, I am calling from the bank SBI. Can you give me bank details and like other card and bank account number and IDFC number?",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.706692723819054,
+      "risk_level": "HIGH",
+      "fraud_indicators": [
+        "bank account",
+        "account number"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260203_183218.wav",
+    "timestamp": "20260203_183218",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, good morning. My name is Shivam. I am calling from policypazar.com. Your policy insurance is now claimed by someone. Can you share me your OTP?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.0036723434476247908,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "otp"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_183251.mp3",
+    "timestamp": "20260203_183251",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello my name is Shabam, how are you? Can you share your bank statement and archive for me?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.0002860717153018676,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_183430.mp3",
+    "timestamp": "20260203_183430",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Can you share your bank student?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.0002860717153018676,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_183504.mp3",
+    "timestamp": "20260203_183504",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Congratulations, you want the lottery in the Ayrton Company.",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.007262815901348379,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "lottery",
+        "congratulations"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_185643.mp3",
+    "timestamp": "20260203_185643",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "That's why I'm not like, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I'm, I",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.2835,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_185806.mp3",
+    "timestamp": "20260203_185806",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "I don't know why I'm calling from the phone. I don't know what the account is.",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.1352,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260203_185930.wav",
+    "timestamp": "20260203_185930",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, good morning. My name is Shivam. I am calling from policypazar.com. Your policy insurance is now claimed by someone. Can you share me your OTP?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.1421,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260203_200504.wav",
+    "timestamp": "20260203_200504",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, good morning. My name is Shivam. I am calling from policypazar.com. Your policy insurance is now claimed by someone. Can you share me your OTP?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.2471,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "otp"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_213242.mp3",
+    "timestamp": "20260203_213242",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hi, this is Shivam. Can I get your account statement or account number?",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.6317,
+      "risk_level": "MEDIUM",
+      "fraud_indicators": [
+        "account number"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_213336.mp3",
+    "timestamp": "20260203_213336",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "अगर बद्रा लिए दिरत्मेंग़ जाज अगर लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लिए लि�",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.3798,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_213443.mp3",
+    "timestamp": "20260203_213443",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "ایک سیوز میں ساکھا ہوں، کیا نو سیدی اور اوٹی بی؟",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.3798,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_213538.mp3",
+    "timestamp": "20260203_213538",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, we are calling from the police department. You are under arrest right now.",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.4261,
+      "risk_level": "MEDIUM",
+      "fraud_indicators": [
+        "police",
+        "arrest",
+        "right now"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_213617.mp3",
+    "timestamp": "20260203_213617",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Pay the fine immediately to a wood gel Police department calling you have an arrest warrant. Pay the fine immediately to a wood gel",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.8058,
+      "risk_level": "HIGH",
+      "fraud_indicators": [
+        "arrest warrant",
+        "police",
+        "arrest",
+        "warrant",
+        "immediately",
+        "fine"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_214332.mp3",
+    "timestamp": "20260203_214332",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "जाचा बूफरीके",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.3792,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_214420.mp3",
+    "timestamp": "20260203_214420",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "अपका अपका बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद कर बाद",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.3792,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_214544.mp3",
+    "timestamp": "20260203_214544",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello sir, we are calling from SBI bank. As you know your item card just expired today. So if you like we have facility to activate your card through OTP. So if you can set your OTP now then your card will be activated. You are very fair.",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.2428,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "otp"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_214803.mp3",
+    "timestamp": "20260203_214803",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello sir, we are calling from ASI Bank. As you know your card just expired today. So if you can say the OTP then your card will be executed right now.",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.354,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "otp",
+        "right now"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_214853.mp3",
+    "timestamp": "20260203_214853",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Bank account, KYC, jail",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.5621,
+      "risk_level": "MEDIUM",
+      "fraud_indicators": [
+        "bank account",
+        "jail"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260203_215340.mp3",
+    "timestamp": "20260203_215340",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Congratulations, you won $50,000. Send me your bank details to claim your price.",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.6285,
+      "risk_level": "MEDIUM",
+      "fraud_indicators": [
+        "won",
+        "congratulations"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260204_191138.wav",
+    "timestamp": "20260204_191138",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260204_191629.wav",
+    "timestamp": "20260204_191629",
+    "transcription_available": true,
+    "transcription_success": false,
+    "transcription_error": "Audio processing failed: Failed to load or convert audio: ffmpeg not found on PATH. Install ffmpeg to enable conversion for MP3/M4A files or upload WAV files. (original: )",
+    "transcript": "",
+    "fraud_detection": null
+  },
+  {
+    "success": true,
+    "filename": "uploaded_20260204_193524.wav",
+    "timestamp": "20260204_193524",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello, good morning. My name is Shivam. I am calling from policypazar.com. Your policy insurance is now claimed by someone. Can you share me your OTP?",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.2416,
+      "risk_level": "LOW",
+      "fraud_indicators": [
+        "otp"
+      ]
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260204_193636.mp3",
+    "timestamp": "20260204_193636",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Hello my name is Shivane",
+    "fraud_detection": {
+      "is_fraud": false,
+      "confidence": 0.3384,
+      "risk_level": "LOW",
+      "fraud_indicators": []
+    }
+  },
+  {
+    "success": true,
+    "filename": "live_recording_20260204_193707.mp3",
+    "timestamp": "20260204_193707",
+    "recording_type": "live",
+    "transcription_available": true,
+    "transcription_success": true,
+    "transcription_error": null,
+    "transcript": "Can you share me your bank details? This call is from Police Station. It's for an Arrest.",
+    "fraud_detection": {
+      "is_fraud": true,
+      "confidence": 0.5943,
+      "risk_level": "MEDIUM",
+      "fraud_indicators": [
+        "police",
+        "arrest"
+      ]
+    }
+  }
+]
