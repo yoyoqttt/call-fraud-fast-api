@@ -324,7 +324,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Shivam Srivastava**
 - Email: shivasrivastava451@gmail.com
 - LinkedIn: [linkedin.com/in/shivam-srivastava](https://linkedin.com/in/shivam-srivastava)
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [@yourusername](https://github.com/yoyoqttt)
 
 ## 🙏 Acknowledgments
 
@@ -336,3 +336,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 📞 Support
 
 For support, email shivasrivastava451@gmail.com or create an issue in the repository.
+
